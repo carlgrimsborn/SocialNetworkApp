@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  SignInVC.swift
 //  SocialMediaApp
 //
 //  Created by Carl Grimsborn on 2017-09-21.
